@@ -24,16 +24,21 @@ This is a unique login page designed using HTML, CSS, and JavaScript. The page i
    ```sh
    git clone https://github.com/shubhamsray/awak-login-page.git
 
-## For Running the Project 
+## Steps to Run the Project
+1 Clone the project to your system.
 
-    1 Clone the project in your System
-    2 Now open each and every file to check once 
-    3 Then INSTALL a extension if you don't have which is LIVE SEVER 
-    4 If you have Live Server extension which in the right bottom side of the vscode as GO LIVE
-    5 Click on GO LIVE, then the code will be live to the browser 
-    6 Go to the respective url and You will the Logic page built using HTML CSS AND JAVASCRIPT 
-      with responsivness and user attractive and user friendly ( Please see the Web Page In FULL SCREEN (F11))
+2 Open each file and review the code.
 
-      Thank You all for give these Assignment 
+3 If you haven't already, install the Live Server extension for VS Code.
+
+4 Once installed, you'll see a "Go Live" button at the bottom right corner of VS Code.
+
+5 Click "Go Live" to launch the project in your browser.
+
+6 Navigate to the respective URL to view the login page, which is built using HTML, CSS, and JavaScript. The page is responsive, user-friendly, and designed with an attractive interface.
+
+7 For the best experience, please view the webpage in full screen mode (F11).
+
+    Thank you for reviewing this assignment!
 
 ## SHUBHAM SANTOSH RAY - 230950120142
